@@ -1,0 +1,44 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.Splash.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\bin\Debug\Adivinha.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\bin\Debug\Adivinha.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
+F:\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+F:\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+F:\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
+G:\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+G:\Adivinha\Adivinha\bin\Debug\Adivinha.exe
+G:\Adivinha\Adivinha\bin\Debug\Adivinha.pdb
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.csprojAssemblyReference.cache
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.Form1.resources
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.Properties.Resources.resources
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.Splash.resources
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.GenerateResource.cache
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.CoreCompileInputs.cache
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+G:\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\bin\Debug\Adivinha.exe
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Form1.resources
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Properties.Resources.resources
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Splash.resources
+F:\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\bin\Debug\Adivinha.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\bin\Debug\Adivinha.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\bin\Debug\Adivinha.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Form1.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.Splash.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Adivinha\Adivinha\obj\Debug\Adivinha.pdb
